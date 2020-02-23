@@ -177,7 +177,7 @@
         <item>Fin*</item>
         <item>Raccrocher</item>
         <item>Terminer*</item>
-        <item>ANNULER</item>
+        <item>Fermer</item>
         <item>Abandonner le message vocal</item>
         <item>Effacer toutes les notifications.</item>
         <item>*NON LUS*</item>
@@ -371,7 +371,7 @@
         <item>Reconnaissance du visage</item>
         <item>Reconnaissance CAPTCHA</item>
         <item>Résultat de reconnaissance</item>
-        <item>description de l\'image</item>
+        <item>description de l'image</item>
     </string-array>
     <string-array name="lang_entries">
         <item>auto</item>
